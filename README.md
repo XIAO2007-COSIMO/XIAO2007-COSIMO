@@ -1,22 +1,21 @@
-# XIAO2007-COSIMO
+# JianZhou Xiao
 
 ### Robotics · Visuo-Tactile Learning · Efficient Machine Learning
 
-I’m exploring how tactile sensing, simulation, and data-efficient learning can advance intelligent systems.
+I’m interested in how tactile sensing, simulation, and data-efficient learning can help build more capable and reliable intelligent systems.
 
-## Areas I’m exploring
+## Research interests
 
 - Visuo-tactile robot manipulation and sim-to-real evaluation
 - Data pruning, coreset selection, and knowledge distillation
 - Out-of-distribution detection and reproducible ML experiments
 
-## Selected projects
+## Interactive demo
 
-- [OpenViTac](https://github.com/XIAO2007-COSIMO/OpenViTac) — A unified benchmark for visuo-tactile policies across simulation and real-world tasks. Forked from [FVL-Repo/OpenViTac](https://github.com/FVL-Repo/OpenViTac).
-- [Distill-on-a-Diet](https://github.com/XIAO2007-COSIMO/Distill-on-a-Diet) — Research code for learnable data pruning and efficient knowledge distillation. Forked from [yifanwu-victor/Distill-on-a-Diet](https://github.com/yifanwu-victor/Distill-on-a-Diet).
-- [bio-coreset](https://github.com/XIAO2007-COSIMO/bio-coreset) — Data pruning for pretraining biological foundation models. Forked from [yifanwu-victor/bio-coreset](https://github.com/yifanwu-victor/bio-coreset).
-- [Outlier-Exposure-by-Simple-Transformations](https://github.com/XIAO2007-COSIMO/Outlier-Exposure-by-Simple-Transformations) — Out-of-distribution detection using simple transformations. Forked from [yifanwu-victor/Outlier-Exposure-by-Simple-Transformations](https://github.com/yifanwu-victor/Outlier-Exposure-by-Simple-Transformations).
+### Sample Budget Lab
 
-## What’s next
+Explore how a small sample budget affects a simple classification task. Adjust the dataset and compare random selection with farthest-point selection.
 
-I’ll add project notes, reproducibility checks, and original experiments as they take shape.
+[Open the live demo](https://xiao2007-cosimo.github.io/sample-budget-lab/) · [View the demo source](https://github.com/XIAO2007-COSIMO/XIAO2007-COSIMO/blob/main/site/sample-budget-lab/index.html)
+
+The experiment generates synthetic data in the browser. Its results are illustrative and are not a benchmark or a reproduction of published research.
