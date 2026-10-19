@@ -16,7 +16,7 @@ I explore how tactile sensing, simulation, and data-efficient learning can suppo
 
 An interactive, self-contained demo for exploring how a fixed sample budget can be split across training, validation, and testing. It uses simple illustrative arithmetic; it does not report results from a real dataset or model benchmark.
 
-[Open the interactive lab](https://xiao2007-cosimo.github.io/) · [View the source](https://github.com/XIAO2007-COSIMO/XIAO2007-COSIMO/blob/main/index.html)
+[Open the interactive lab](https://xiao2007-cosimo.github.io/XIAO2007-COSIMO/) · [View the source](https://github.com/XIAO2007-COSIMO/XIAO2007-COSIMO/blob/main/index.html)
 
 ## What I’m building
 
